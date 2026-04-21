@@ -101,7 +101,8 @@ HLT   // Halt execution
 
 ---
 ##  Pipelied diagram 
-[Pipelined Datapath.pdf](https://github.com/user-attachments/files/26920428/Pipelined.Datapath.pdf)
+![Pipelined Datapath](https://github.com/user-attachments/assets/7a5dd684-897c-406e-a60b-ef599c7cf0b4)
+
 
 ##  Stages of Execution
 
