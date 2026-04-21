@@ -101,7 +101,7 @@ HLT   // Halt execution
 
 ---
 ##  Pipelied diagram 
-  <img width="966" height="542" alt="Pipelined_diagram" src="https://github.com/user-attachments/assets/7a5dd684-897c-406e-a60b-ef599c7cf0b4" />
+<img width="1442" height="727" alt="MIPS32_pipelined" src="https://github.com/user-attachments/assets/95b112d6-5c73-4ba8-aeee-ccfe564fc058" />
 
 ##  Stages of Execution
 
